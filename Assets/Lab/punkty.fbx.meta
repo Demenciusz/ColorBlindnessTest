@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: e63b281120bea1344a0077c4b571acf1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: koniec1
+    100002: koniec10
+    100004: koniec11
+    100006: koniec12
+    100008: koniec2
+    100010: koniec3
+    100012: koniec4
+    100014: koniec5
+    100016: koniec6
+    100018: koniec7
+    100020: koniec8
+    100022: koniec9
+    100024: //RootNode
+    400000: koniec1
+    400002: koniec10
+    400004: koniec11
+    400006: koniec12
+    400008: koniec2
+    400010: koniec3
+    400012: koniec4
+    400014: koniec5
+    400016: koniec6
+    400018: koniec7
+    400020: koniec8
+    400022: koniec9
+    400024: //RootNode
+    2100000: Material.002
+    2100002: Material.073
+    2100004: Material.074
+    2100006: Material.075
+    2100008: Material.076
+    2100010: Material.077
+    2100012: Material.078
+    2100014: Material.080
+    2100016: Material.081
+    2100018: Material.079
+    2100020: Material.082
+    2100022: Material.083
+    2300000: koniec1
+    2300002: koniec10
+    2300004: koniec11
+    2300006: koniec12
+    2300008: koniec2
+    2300010: koniec3
+    2300012: koniec4
+    2300014: koniec5
+    2300016: koniec6
+    2300018: koniec7
+    2300020: koniec8
+    2300022: koniec9
+    3300000: koniec1
+    3300002: koniec10
+    3300004: koniec11
+    3300006: koniec12
+    3300008: koniec2
+    3300010: koniec3
+    3300012: koniec4
+    3300014: koniec5
+    3300016: koniec6
+    3300018: koniec7
+    3300020: koniec8
+    3300022: koniec9
+    4300000: koniec1
+    4300002: koniec2
+    4300004: koniec3
+    4300006: koniec4
+    4300008: koniec5
+    4300010: koniec6
+    4300012: koniec7
+    4300014: koniec8
+    4300016: koniec9
+    4300018: koniec10
+    4300020: koniec11
+    4300022: koniec12
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
